@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 const collectSameElements = require('../../main/section-1/practice-4');
 
 describe('practice-1-4', () => {
